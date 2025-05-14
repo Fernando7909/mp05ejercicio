@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Aragorn",
+        "nivel": 1000,
+        "experiencia": 1200,
+        "inventario": [
+            "Espada",
+            "arco"
+        ]
+    },
+    {
+        "nombre": "Legolas",
+        "nivel": 10,
+        "experiencia": 1500,
+        "inventario": [
+            "arco",
+            "flechas"
+        ]
+    },
+    {
+        "nombre": "Gimli",
+        "nivel": 900,
+        "experiencia": 1300,
+        "inventario": [
+            "Hacha",
+            "escudo"
+        ]
+    },
+    {
+        "nombre": "Frodo",
+        "nivel": 500,
+        "experiencia": 700,
+        "inventario": [
+            "espada"
+        ]
+    }
+]
